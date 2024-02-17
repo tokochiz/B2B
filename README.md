@@ -10,15 +10,15 @@
 - Debianのインストール
     ＜ボーナス要件＞　パーティション分割
 - 仮想マシンのセットアップ
-  sudoのインストール、ユーザのグループの構成
-  SSHのインストール、設定
-  UFWのインストール、設定
-  sudoポリシーの設定
-  パスワードポリシーの設定
-  SSH経由での接続
+    sudoのインストール、ユーザのグループの構成
+    SSHのインストール、設定
+    UFWのインストール、設定
+    sudoポリシーの設定
+    パスワードポリシーの設定
+    SSH経由での接続
 - スクリプトの表示
 - Crontabの編集
 - 提出用shasum実行
 
 ## 参考サイト
-- https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md
+> https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md
